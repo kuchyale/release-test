@@ -4,7 +4,7 @@
 
     <groupId>dev.kuchynski.release</groupId>
     <artifactId>release-test</artifactId>
-    <version>1.2-SNAPSHOT</version>
+    <version>1.2</version>
     <packaging>pom</packaging>
 
     <name>GitHub Release Test</name>
